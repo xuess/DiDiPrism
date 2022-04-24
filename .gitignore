@@ -36,3 +36,6 @@ Carthage/Build
 #
 iOS/DiDiPrismDemo/Pods/
 iOS/DiDiPrismDemo/Podfile.lock
+
+
+H5/node_modules
